@@ -12,7 +12,7 @@ Estudande de C# em transição de carreira.
 &nbsp;<a href="https://linkedin.com/in/paulodiasdeveloper">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>&nbsp;
-&nbsp;<a href="https://https://www.instagram.com/redkemper22/">
+&nbsp;<a href="https://www.instagram.com/redkemper22/">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>&nbsp;
           
