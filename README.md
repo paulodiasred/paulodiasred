@@ -1,11 +1,14 @@
 ## Oi, Paulo aqui 🙋🏻
-Estudande de C# em transição de carreira.
+Estudande de Back-end em transição de carreira.
 
 💼 Atualmente trabalhando como Vendedor.<br>
 📚 Cursando **Análise e Desenvolvimento de Sistemas** <br>
-🖥️ Entusiasta de Back-end<br>
-📌 Atualmente aprendendo C#<br>
+🖥️ Entusiasta de **C#** <br>
+📌 Atualmente focado em: .NET | C# | SQL
+<br><br>
+<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg" />
 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
 ##
 
 ### Você também me encontra em:
