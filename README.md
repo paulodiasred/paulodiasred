@@ -1,9 +1,9 @@
 ## Oi, Paulo aqui 🙋🏻
 Estudande de Back-end em transição de carreira.
 
-💼 Atualmente trabalhando como Vendedor.<br>
+💼 Em busca de uma oportunidade de Estágio<br>
 📚 Cursando **Análise e Desenvolvimento de Sistemas** <br>
-🖥️ Entusiasta de **C#** <br>
+🖥️ Aprendendo a programar em **C#** <br>
 📌 Atualmente focado em: .NET | C# | SQL
 <br><br>
 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg" />
