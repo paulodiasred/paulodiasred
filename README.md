@@ -2,13 +2,18 @@
 Estudande de Back-end em transição de carreira.
 
 💼 Em busca de uma oportunidade de Estágio<br>
-📚 Cursando **Análise e Desenvolvimento de Sistemas** <br>
-🖥️ Aprendendo a programar em **C#** <br>
-📌 Atualmente focado em: .NET | C# | SQL
+📚 Cursando Análise e Desenvolvimento de Sistemas<br>
+🖥️ Aprendendo a programar em C# e React<br>
+📌 Tecnologias: .NET | C# | SQL | Python | Django | HTML | CSS | JavaScript
 <br><br>
 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg" />
 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
+<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" />
+<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 ##
 
 ### Você também me encontra em:
