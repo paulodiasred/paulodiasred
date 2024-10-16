@@ -1,5 +1,12 @@
 ## Oi, Paulo aqui 🙋🏻
-Estudande de Programação Fullstack em transição de carreira.
+Estou em transição de carreira de vendas para 
+desenvolvimento de software, com experiência em 
+projetos de programação e integração de sistemas. 
+Tenho foco em Python e banco de dados, além de 
+conhecimentos em C#, ASP.NET, HTML, CSS, JavaScript 
+e React. Busco aplicar minhas habilidades técnicas e 
+visão de negócios em soluções práticas e eficientes para 
+o mercado de tecnologia. 
 
 💼 Em busca de uma oportunidade de Estágio<br>
 📚 Cursando Análise e Desenvolvimento de Sistemas<br>
