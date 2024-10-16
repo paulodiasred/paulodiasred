@@ -1,5 +1,5 @@
 ## Oi, Paulo aqui 🙋🏻
-Estudande de Back-end em transição de carreira.
+Estudande de Programação Fullstack em transição de carreira.
 
 💼 Em busca de uma oportunidade de Estágio<br>
 📚 Cursando Análise e Desenvolvimento de Sistemas<br>
