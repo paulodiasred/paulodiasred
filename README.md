@@ -4,7 +4,8 @@
 💼 Em busca de uma oportunidade de Estágio<br>
 📚 Cursando Análise e Desenvolvimento de Sistemas<br>
 🖥️ Aprendendo a programar em C# e React<br>
-📌 Tecnologias: .NET | C# | SQL | Python | Django | HTML | CSS | JavaScript
+📌 Tecnologias: .NET | C# | SQL | Python | Django | HTML | CSS | JavaScript<br><br>
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=paulodiasred&layout=compact&langs_count=5&theme=radical)
 <br><br>
 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg" />
 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
@@ -19,10 +20,7 @@
 ### Você também me encontra em:
 &nbsp;<a href="https://linkedin.com/in/paulodiasdeveloper">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>&nbsp;
-&nbsp;<a href="https://www.instagram.com/redkemper22/">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-</a>&nbsp;
+</a>
           
 <!--
 **paulodiasred/paulodiasred** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
