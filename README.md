@@ -3,7 +3,7 @@
 
 🚀 Busco aplicar minhas habilidades em projetos desafiadores e inovadores no mundo do desenvolvimento web.<br>
 🎓 Atualmente cursando Análise e Desenvolvimento de Sistemas.<br>
-🛠️ Principais Tecnologias: HTML | CSS | JavaScript | React | Angular | C# | .NET | SQL | Pythont
+🛠️ Principais Tecnologias: HTML | CSS | JavaScript | React | Angular | C# | .NET | SQL 
 <br><br>
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=paulodiasred&layout=compact&langs_count=5&theme=radical)
 <br><br>
@@ -11,7 +11,6 @@
 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
-<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
