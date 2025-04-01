@@ -36,7 +36,7 @@ Atualmente, atuo no desenvolvimento de **soluções fullstack internas** para au
 
 Seja bem-vindo ao meu GitHub! Sinta-se à vontade para explorar meus projetos e entrar em contato. 🚀
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=paulodiasred&layout=compact&langs_count=5&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=paulodiasred&layout=compact&langs_count=6&theme=radical)
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/paulodiasred/count.svg?"  />
