@@ -47,6 +47,8 @@
 📧 **Email:** [pauloalberto13@gmail.com](mailto:pauloalberto13@gmail.com)  
 🐙 **GitHub:** [github.com/paulodiasred](https://github.com/paulodiasred)  
 🔗 **LinkedIn:** [linkedin.com/in/paulodiasdeveloper](https://www.linkedin.com/in/paulodiasdeveloper/)  
+📱 **WhatsApp:** [Clique aqui para conversar](https://wa.me/5531984765233?text=Olá%20Paulo,%20vi%20seu%20GitHub%20e%20gostaria%20de%20falar%20com%20você!)
+
 
 Seja bem-vindo ao meu GitHub! Sinta-se à vontade para explorar meus projetos e entrar em contato. 🚀
 
