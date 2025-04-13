@@ -1,16 +1,30 @@
-# 💻 Paulo Dias | Desenvolvedor Full Stack 🚀 
-Sou um **Desenvolvedor Full Stack** apaixonado por tecnologia e soluções inovadoras. Minha experiência abrange tanto o **front-end**, com **React e Angular**, quanto o **back-end**, com **Node.js, Express, C# e .NET**. Trabalho na criação de **APIs escaláveis, integrações robustas e sistemas performáticos**, sempre aplicando **boas práticas de código**, como **SOLID e Clean Code**.
- 
-Atualmente, atuo no desenvolvimento de **soluções fullstack internas** para automação de processos financeiros, gestão de contratos e otimização de fluxo de trabalho. Meu objetivo é sempre buscar desafios que me permitam evoluir como desenvolvedor e contribuir com soluções eficientes e de alto impacto.
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github.com/paulodiasred/portfolio/blob/main/images/img-eu-devfulstack.png?raw=true" width="100%"/>
+    </td>
+    <td width="50%">
+      <p>
+        Sou um <strong>Desenvolvedor Full Stack</strong> apaixonado por tecnologia e soluções inovadoras. Minha experiência abrange tanto o <strong>front-end</strong>, com <strong>React e Angular</strong>, quanto o <strong>back-end</strong>, com <strong>Java (Spring Boot)</strong>, <strong>Node.js</strong>, <strong>C#</strong> e <strong>.NET</strong>. Tenho atuação sólida na criação de <strong>APIs escaláveis</strong>, <strong>integrações robustas</strong> e <strong>sistemas performáticos</strong>, sempre aplicando <strong>boas práticas de engenharia de software</strong>, como <strong>SOLID</strong>, <strong>Clean Code</strong> e <strong>Clean Architecture</strong>.
+      </p>
+      <p>
+        Atualmente, atuo no desenvolvimento de <strong>soluções internas fullstack</strong> voltadas para automação de processos financeiros, gestão de contratos e otimização de fluxo de trabalho. Meu objetivo é sempre buscar desafios que me permitam evoluir como desenvolvedor e entregar soluções de alto impacto.
+      </p>
+    </td>
+  </tr>
+</table>
 
----
-
-## 🚀 Tecnologias Principais  <img align="right" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExamRnY3U5ZGxlNnd4eHA4cm1keDh4Ym8wbnJxNXdnOTZ5ZHJsMnE0eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
+## 🚀 Tecnologias Principais
 - **Front-end:** React, Angular, JavaScript, HTML, CSS  
-- **Back-end:** Node.js, Express, C#, .NET, ASP.NET  
+- **Back-end:** Java (Spring Boot, Spring Data JPA, Spring Security), Node.js, Express, C#, .NET, ASP.NET  
 - **Banco de Dados:** SQL Server, MongoDB  
-- **Outros:** SOLID, Clean Code, JWT, AWS, Vercel, Heroku, Make (Integromat), Selenium
+- **Outros:** Docker, JWT, AWS, Vercel, Heroku, Make (Integromat), Selenium, Apache Tomcat  
+- **Boas práticas:** SOLID, Clean Code, Clean Architecture, DDD
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
