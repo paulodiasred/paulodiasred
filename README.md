@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td width="50%">
-      <img src="https://github.com/paulodiasred/portfolio/blob/main/images/img-eu-devfulstack.png?raw=true" width="100%"/>
+      <img src="https://github.com/paulodiasred/paulodiasred/blob/main/img-eu-devfulstack.png?raw=true" width="100%"/>
     </td>
     <td width="50%">
       <p>
